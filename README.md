@@ -1,6 +1,6 @@
 # Pokedex
 
-Pokedex is an app where you can explore pokemon in different environments and try to catch them, store or learn about them in pokedex tab.
+The Pokedex app offers an experience where you can immerse yourself in a variety of environments to explore and catch an array of Pokémon. The app enables you to store and learn about your captures through its comprehensive Pokedex tab. Whether you're a seasoned trainer or just starting out, the Pokedex app is the perfect companion for your journey through the world of Pokémon.
 
 <div>
 <img src="/demonstration/play.gif" width="250"/>
